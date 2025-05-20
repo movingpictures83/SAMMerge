@@ -1,0 +1,2 @@
+sam1	r1.remap.sam
+sam2	r2.remap.sam
